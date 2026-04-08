@@ -2,13 +2,11 @@
 
 🎓 Final Year Computer Science Engineering Student
 💻 Aspiring Software Developer | AI/ML Enthusiast
-🚀 Passionate about building real-world projects using AI, Blockchain & Web Technologies
+🚀 Passionate about building real-world projects using AI & Web Technologies
 
  About Me:
 🔭 Currently working on AI & Machine Learning projects
-🧠 Exploring Deep Learning & Emotion Recognition from Speech
-🔗 Building Blockchain-based applications (Digicertify)
-📈 Actively improving DSA & problem-solving skills
+📈 Actively improving Coding & problem-solving skills
 🎯 Looking for internship opportunities (Software / ML roles)
 
 🛠️ Skills
