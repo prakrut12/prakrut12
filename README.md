@@ -50,7 +50,7 @@ Git & GitHub
 I enjoy learning new technologies and building projects that solve real-world problems 🚀
 
 🔥 Goals
-Crack a good Software/ML Internship
-Build impactful AI-based applications
-Improve communication & problem-solving skills
+-Crack a good Software/ML Internship
+-Build impactful AI-based applications
+-Improve communication & problem-solving skills
 
