@@ -6,6 +6,7 @@
 
 
  About Me:
+ 
 🔭 Currently working on AI & Machine Learning projects
 📈 Actively improving Coding & problem-solving skills
 🎯 Looking for Job opportunities (Software / AI/ML roles)
@@ -13,6 +14,7 @@
 
 
 🛠️ Skills
+
 💻 Programming Languages
 Python 🐍
 SQL
@@ -20,6 +22,7 @@ SQL
 
 
 ⚙️ Technologies & Tools
+
 Machine Learning
 SQL & Databases
 HTML, CSS, JavaScript
@@ -49,6 +52,7 @@ Git & GitHub
 
 
 🌐 Connect With Me
+
 📧 Email: prakruthis935393@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/prakruthi-s-0543322b0/ 
@@ -57,6 +61,7 @@ Git & GitHub
 
 
 ✨ Fun Fact
+
 I enjoy learning new technologies and building projects that solve real-world problems 🚀
 
 
