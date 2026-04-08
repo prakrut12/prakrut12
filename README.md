@@ -44,7 +44,7 @@ Git & GitHub
 🌐 Connect With Me
 📧 Email: prakruthis935393@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/prakruthi-s-0543322b0/ 
-💻 GitHub: 
+💻 GitHub: https://github.com/prakrut12
 
 ✨ Fun Fact
 I enjoy learning new technologies and building projects that solve real-world problems 🚀
