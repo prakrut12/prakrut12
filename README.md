@@ -25,17 +25,20 @@ Git & GitHub
 
 🚀 Projects
 
-🔹 Digicertify – Blockchain Certificate Verification
-Built a decentralized application for verifying digital certificates
-Used Solidity, MetaMask, Web3.js
-Ensures secure and tamper-proof certificate validation
-🔹 Emotion Recognition from Speech
-Developed a deep learning model to detect human emotions from voice
-Used MFCC feature extraction + CNN/RNN/LSTM models
-Worked with datasets like RAVDESS & TESS
-🔹 Fake News Detection (ML Project)
-Built a machine learning model to classify fake vs real news
-Used NLP techniques and classification algorithms
+🔹 Multi Step Coding Agent
+- Developed an AI-based coding assistant that solves problems step-by-step  
+- Generates structured solutions and explanations for better understanding  
+- Built using Python and agent-based logic  
+
+🔹 Teleco Customer Churn Prediction
+- Built a machine learning model to predict customer churn  
+- Used data preprocessing, feature selection, and classification algorithms  
+- Helps businesses identify customers likely to leave  
+
+🔹 Heart Disease Prediction
+- Developed a predictive model to detect heart disease risk  
+- Implemented using machine learning algorithms on medical datasets  
+- Provides early insights for better healthcare decisions 
 
 
 🌐 Connect With Me
