@@ -8,7 +8,7 @@
  About Me:
 🔭 Currently working on AI & Machine Learning projects
 📈 Actively improving Coding & problem-solving skills
-🎯 Looking for internship opportunities (Software / ML roles)
+🎯 Looking for Job opportunities (Software / AI/ML roles)
 
 
 
@@ -61,7 +61,8 @@ I enjoy learning new technologies and building projects that solve real-world pr
 
 
 🔥 Goals
--Crack a good Software/ML Internship.
+
+-Secure a Software/ML Engineer role.
 
 -Build impactful AI-based applications.
 
